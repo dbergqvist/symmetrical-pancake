@@ -1,0 +1,20 @@
+{
+  "total_documents": 10,
+  "success_count": 10,
+  "failed_count": 0,
+  "time_taken_seconds": 0.8012909889221191,
+  "documents_per_second": 12.479860797451128,
+  "document_type_distribution": {
+    "docx": 0.6,
+    "pdf": 0.2,
+    "xlsx": 0.2,
+    "txt": 0.0
+  },
+  "template_type_distribution": {
+    "report": 0.2,
+    "letter": 0.1,
+    "memo": 0.3,
+    "invoice": 0.0,
+    "data_analysis": 0.4
+  }
+}
